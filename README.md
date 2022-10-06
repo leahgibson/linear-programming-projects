@@ -1,4 +1,4 @@
-# linear-programming-projects
+# Linear Programming Projects
 
 As part of my class Math 510, Linear Programming, at Colorado State University, I need to complete two mini projects related to linear programming.
 
